@@ -41,6 +41,9 @@
 *.VC.db
 *.VC.opendb
 
+# Python cache
+*.pyc
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
